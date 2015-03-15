@@ -18,6 +18,8 @@ main:
 
         #################################
         # Write your program here
+        la a
+        # just a test t verify something
         # The following assumes the result is in $s0
         #################################
 
